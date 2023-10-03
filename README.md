@@ -24,6 +24,10 @@
 
 #### add(num1, num2)
 
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
